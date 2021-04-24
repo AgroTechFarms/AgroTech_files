@@ -1,0 +1,11 @@
+--2021-04-16 13:10:07--  https://dev.mysql.com/downloads/file/?id=500617
+Resolving dev.mysql.com (dev.mysql.com)... 137.254.60.11
+Connecting to dev.mysql.com (dev.mysql.com)|137.254.60.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?id=500617’
+
+     0K .......... ......                                      32.8K=0.5s
+
+2021-04-16 13:10:09 (32.8 KB/s) - ‘index.html?id=500617’ saved [16902]
+
