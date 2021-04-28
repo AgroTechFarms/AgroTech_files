@@ -1,0 +1,37 @@
+[33mcommit 40cdc3261662abe6b9db6622e7daaa83bc6f7901[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cloud User <ec2-user@ip-172-31-36-234.ap-south-1.compute.internal>
+Date:   Mon Apr 26 01:49:29 2021 +0000
+
+    Revert "third commit"
+    
+    This reverts commit 039c153481018b9001a37a192b33b033c539a7d1.
+
+[33mcommit 039c153481018b9001a37a192b33b033c539a7d1[m
+Author: shivaB55 <shivabaalireddipalli@gmail.com>
+Date:   Mon Apr 26 01:37:27 2021 +0000
+
+    third commit
+
+[33mcommit 3039a6db46ed7518085c44c364382afa3580467b[m
+Author: shivaB55 <shivabaalireddipalli@gmail.com>
+Date:   Mon Apr 26 01:15:24 2021 +0000
+
+    third commit
+
+[33mcommit b4ff7bcd0ffaf4c2016d6e23d66a56ea3347b5d5[m
+Author: shivaB55 <shivabaalireddipalli@gmail.com>
+Date:   Sat Apr 24 15:14:21 2021 +0000
+
+    shell scripts are entered
+
+[33mcommit 2d705ad3577be56216fbc594cda4d5e972a8a868[m
+Author: shivaB55 <shivabaalireddipalli@gmail.com>
+Date:   Sat Apr 24 10:18:00 2021 +0000
+
+    this is my shell script commit
+
+[33mcommit 2f055a80c25a62762118adbc0cb3af5b057a9a31[m
+Author: Cloud User <ec2-user@ip-172-31-36-234.ap-south-1.compute.internal>
+Date:   Sat Apr 24 07:18:57 2021 +0000
+
+    first commit
